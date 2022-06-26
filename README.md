@@ -52,3 +52,6 @@ BEFORE CLEANING
 AFTER CLEANING
 
 ![Screenshot (162)](https://user-images.githubusercontent.com/79370364/175798324-d117b4c7-62bf-407b-b96b-5db21c9dd4a2.png)
+
+RESULT
+Thus, the given data is read, cleaned and the cleaned data is saved into the file.
