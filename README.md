@@ -43,10 +43,12 @@ df.head()
 df.info()
 df.isnull().sum()
 # OUPUT
-![Screenshot (122)](https://user-images.githubusercontent.com/79370364/161581355-ad61d997-d2eb-46c6-b5a0-bf8c279e6be7.png)
-![Screenshot (123)](https://user-images.githubusercontent.com/79370364/161581522-160a8466-7f61-46d1-b3e2-0b87f0c9436f.png)
-![Screenshot (124)](https://user-images.githubusercontent.com/79370364/161581701-6316cd08-3e5e-4eb9-8e7e-49333deecc07.png)
-![Screenshot (125)](https://user-images.githubusercontent.com/79370364/161582084-5753c7b7-a00c-48ec-bf1a-718d18b56128.png)
-![Screenshot (126)](https://user-images.githubusercontent.com/79370364/161582303-0cbdee9c-8911-4890-bde9-3a93b6e1fe85.png)
-![Screenshot (127)](https://user-images.githubusercontent.com/79370364/161582549-b973f1a6-43d8-443b-b4e8-bea3d6ee9c9a.png)
 
+
+BEFORE CLEANING
+
+![Screenshot (161)](https://user-images.githubusercontent.com/79370364/175798315-d99a7e5a-1b27-489b-b747-bbe0743614ce.png)
+
+AFTER CLEANING
+
+![Screenshot (162)](https://user-images.githubusercontent.com/79370364/175798324-d117b4c7-62bf-407b-b96b-5db21c9dd4a2.png)
